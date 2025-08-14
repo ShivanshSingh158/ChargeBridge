@@ -1,2 +1,0 @@
-# ChargeBridge
-Build EV Infrastructure
